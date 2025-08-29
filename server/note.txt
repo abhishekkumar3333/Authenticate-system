@@ -1,0 +1,19 @@
+register -> name email passworsd image otp bio
+login -> login email google
+Profile ->  with blogs
+account -> private public 
+Contact -> 
+
+bolg :
+title description tags category images cover image profile image
+like Comment
+
+follow -> 
+blogs -> filter -> time search category ->  pagonation 
+
+
+Admin ->
+
+Admin Pannel
+
+users blogs query catgeory 
